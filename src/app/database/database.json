@@ -1,0 +1,212 @@
+
+{
+    "animedb":[
+        {
+            "titre":"One Piece",
+            "datecreation":"22 juillet 1997",
+            "type":"Nekketsu, aventure, comédie, drame, fantasy, humour, satire",
+            "story":"One Piece follows the adventures of Monkey D. Luffy, a young pirate with the power to stretch his body like rubber after eating a mysterious fruit. Along with his crew, the Straw Hat Pirates, Luffy explores the Grand Line in search of the legendary treasure known as One Piece, which will make him the King of the Pirates. Along the way, they encounter other pirates, powerful enemies, and uncover the secrets of the world government and the Void Century.",
+            "img":"https://images.alphacoders.com/134/thumbbig-134883.webp"},
+        {
+            "titre":"Naruto",
+            "datecreation":" 3 octobre 2002",
+            "type":"Nekketsu, action",
+            "story":"Naruto Uzumaki is a young ninja with a dream of becoming Hokage, the leader of his village. He has a demon fox spirit sealed inside him, which has made him an outcast in the village. Along with his teammates, Sasuke and Sakura, and his mentor, Kakashi, Naruto trains and battles to become stronger. As the series progresses, they face increasingly powerful enemies, including other ninja villages and the criminal organization known as Akatsuki. Naruto also uncovers the secrets of his family and the history of his village, ultimately achieving his dream of becoming Hokage and bringing peace to the ninja world.",
+            "img":"https://images8.alphacoders.com/487/thumbbig-487189.webp"},
+        {
+            "titre":"Attack on Titan",
+            "datecreation":"9 September 2009",
+            "type":"Action, dark fantasy, horreur, mystère, tragédie, thriller",
+            "story":"Attack on Titan is set in a world where humanity lives inside cities surrounded by massive walls to protect themselves from Titans, giant humanoid creatures that eat humans without reason. The story follows Eren Yeager, Mikasa Ackerman, and Armin Arlert, who join the military to fight against the Titans after their home city is destroyed. As they uncover the secrets of the Titans and the true nature of their world, they face increasingly dangerous enemies, including other humans who seek to use the Titans for their own purposes. The series explores themes of survival, politics, and the human condition, culminating in a battle for the fate of humanity.",
+            "img":"https://images.alphacoders.com/612/thumbbig-612516.webp"},
+        {
+            "titre":"Fullmetal Alchemist",
+            "datecreation":"22 juillet 1997",
+            "type":"Aventure, science fantasy, steampunk",
+            "story":"Fullmetal Alchemist follows the story of two brothers, Edward and Alphonse Elric, who use alchemy to try to bring their dead mother back to life. However, their attempt goes wrong, and Edward loses an arm and a leg, while Alphonse's entire body is destroyed. They set out on a journey to find the Philosopher's Stone, a powerful artifact that can restore their bodies. Along the way, they uncover a conspiracy involving the government, the military, and a group of rogue alchemists who seek to use the Philosopher's Stone for their own purposes. The series explores themes of morality, sacrifice, and the consequences of trying to play God.",
+            "img":"https://images6.alphacoders.com/850/thumbbig-850976.webp"},
+        {
+            "titre":"Hunter × Hunter",
+            "datecreation":"16 mars 1998",
+            "type":"Action, aventure, drame, fantasy, nekketsu",
+            "story":"Hunter x Hunter follows the story of a young boy named Gon Freecss, who discovers that his father is a legendary Hunter, a member of an elite group of individuals who specialize in a variety of pursuits, from treasure hunting to assassination. Gon sets out to become a Hunter like his father, and along the way, he makes friends and battles powerful enemies. The series explores themes of friendship, family, and the nature of power, culminating in a quest to uncover the secrets of the elusive Dark Continent",
+            "img":"https://images.alphacoders.com/560/thumbbig-560960.webp"},
+        {
+            "titre":"Haikyū!!",
+            "datecreation":"20 février 2012",
+            "type":"sport",
+            "story":"Haikyū is a popular anime and manga series that follows the story of a high school volleyball team and their journey to become the best in Japan. The protagonist, Shoyo Hinata, is a short player with a powerful jump who dreams of becoming a top volleyball player despite his height. Along with his teammates on the Karasuno High School volleyball team, they train and compete against other teams, facing challenges and overcoming their weaknesses. The series explores themes of teamwork, friendship, and perseverance, culminating in an intense battle against their rival team, the Nekoma High School volleyball team",
+            "img":"https://images7.alphacoders.com/741/thumbbig-741738.webp"},
+        {
+            "titre": "Death Note",
+            "datecreation": "3 October 2006",
+            "type": "Mystery, Psychological, Supernatural, Thriller",
+            "story": "Death Note follows the story of Light Yagami, a high school student who discovers a supernatural notebook that allows him to kill anyone by writing their name in it. With the goal of creating a world free from criminals, Light begins a reign of terror as the mysterious serial killer known as Kira. As he faces off against a brilliant detective named L, the two engage in a battle of wits to uncover each other's identity and bring justice to their respective visions of the world.",
+            "img": "https://images2.alphacoders.com/153/thumbbig-153290.webp"},
+        {
+            "titre": "My Hero Academia",
+            "datecreation": "3 April 2016",
+            "type": "Action, Comedy, Superhero",
+            "story": "My Hero Academia is set in a world where most of the population has superpowers called Quirks. The story follows Izuku Midoriya, a boy born without a Quirk who dreams of becoming a superhero. After being chosen by the greatest hero, All Might, to inherit his power, Izuku joins U.A. High School, a prestigious academy for aspiring heroes. Alongside his classmates, Izuku trains and faces various villains to become the symbol of peace and protect the world.",
+            "img": "https://images8.alphacoders.com/736/thumbbig-736903.webp"},
+        {
+            "titre": "Demon Slayer: Kimetsu no Yaiba",
+            "datecreation": "15 February 2016",
+            "type": "Action, Dark Fantasy, Historical, Supernatural",
+            "story": "Demon Slayer: Kimetsu no Yaiba follows the story of Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered and his sister, Nezuko, is turned into a demon. Tanjiro seeks to find a cure for his sister and avenge his family by hunting down the demons responsible. Along his journey, he encounters powerful demons, forms friendships with fellow demon slayers, and uncovers the dark secrets of the demon slayer organization.",
+            "img": "https://images2.alphacoders.com/106/thumbbig-1065611.webp"},
+        {
+            "titre": "Dragon Ball Z",
+            "datecreation": "26 avril 1989",
+            "type": "Action, aventure, combat, fantastique, science-fiction",
+            "story": "Dragon Ball Z follows the adventures of Goku and his friends as they defend Earth from powerful villains and explore the universe. With the ability to harness the power of the Dragon Balls, which grant any wish, Goku and his allies face off against formidable foes and push their limits to protect their loved ones and the world.",
+            "img": "https://images7.alphacoders.com/611/thumbbig-611138.webp"},
+        {
+            "titre": "Bleach",
+            "datecreation": "5 octobre 2004",
+            "type": "Action, aventure, supernatural",
+            "story": "Bleach follows the story of Ichigo Kurosaki, a teenager with the ability to see ghosts. After obtaining the powers of a Soul Reaper, a celestial being that protects the living world from malicious spirits, Ichigo embarks on a journey to defend humanity and the afterlife from powerful threats. Along the way, he uncovers the secrets of his own lineage and battles both supernatural entities and other Soul Reapers.",
+            "img": "https://images4.alphacoders.com/120/thumbbig-120064.webp"},
+        {
+            "titre": "One Punch Man",
+            "datecreation": "9 avril 2012",
+            "type": "Action, comédie, science-fiction",
+            "story": "One Punch Man follows the story of Saitama, a superhero who can defeat any opponent with a single punch. Despite his incredible power, Saitama is bored and constantly seeks a worthy opponent to challenge him. Alongside his cyborg disciple, Genos, Saitama faces various monsters and villains while dealing with the struggles of being an unrecognized hero in a world filled with superhumans.",
+            "img": "https://images.alphacoders.com/662/thumbbig-662491.webp"},
+        {
+            "titre": "Fairy Tail",
+            "datecreation": "23 août 2006",
+            "type": "Aventure, comédie, fantasy",
+            "story": "Fairy Tail is a guild of powerful wizards known for their exciting and adventurous missions. The story revolves around Lucy Heartfilia, a celestial spirit wizard, who joins the Fairy Tail guild and forms a team with Natsu Dragneel, a fire wizard with the power of a dragon, and their friends. Together, they undertake dangerous quests, battle dark guilds, and protect their guild from various threats.",
+            "img": "https://images8.alphacoders.com/638/thumbbig-638504.webp"},
+        {
+            "titre": "Nanatsu no Taizai", 
+            "datecreation": "10 octobre 2012",
+            "type": "Action, aventure, fantasy", 
+            "story": "Nanatsu no Taizai, also known as The Seven Deadly Sins, is set in a medieval fantasy world where a group of legendary knights called the Seven Deadly Sins once protected the kingdom of Britannia. The story follows the princess, Elizabeth Liones, as she sets out on a journey to find the Seven Deadly Sins and enlist their help in reclaiming the kingdom from the tyrannical Holy Knights.", 
+            "img": "https://images2.alphacoders.com/933/thumbbig-933784.webp"},     
+        {
+            "titre": "Steins;Gate",
+            "datecreation": "6 avril 2011",
+            "type": "Science-fiction, thriller",
+            "story": "Steins;Gate is a science-fiction thriller that revolves around Rintarou Okabe, a self-proclaimed mad scientist, and his friends. They accidentally discover a way to send messages to the past, leading them into a complex web of time travel, conspiracies, and the consequences of altering the past. With its intricate plot and mind-bending twists, Steins;Gate is a must-watch for fans of time travel and suspenseful storytelling.",
+            "img": "https://images7.alphacoders.com/345/thumbbig-345161.webp"},
+        {
+            "titre": "Your Lie in April",
+            "datecreation": "10 octobre 2014",
+            "type": "Drame, musique, romance",
+            "story": "Your Lie in April tells the story of Kōsei Arima, a former piano prodigy who lost the ability to hear the sound of his own playing after a traumatic event. When he meets a violinist named Kaori Miyazono, his life takes a dramatic turn. Through music, friendship, and love, Kōsei learns to rediscover his passion for music and find his own voice. This emotional and beautifully animated series explores themes of loss, healing, and the power of music.",
+            "img": "https://images2.alphacoders.com/598/thumbbig-598673.webp"
+          }
+    ],
+         
+    "seriedb":[
+        {
+            "titre":"Game of Thrones",
+            "datecreation":"17 avril 2011",
+            "type":"Fantasy, Drame",
+            "story":"The show takes place in the fictional world of Westeros, where several noble families fight for control of the Iron Throne, the seat of the king of the Seven Kingdoms. As the series progresses, the characters face increasingly complex political and personal challenges, including betrayal, warfare, and the supernatural threat of the White Walkers. The series explores themes of power, loyalty, and morality, culminating in a final battle for the fate of Westeros.",
+            "img":"https://images5.alphacoders.com/865/thumbbig-865686.webp"},
+        {
+            "titre":"Breaking Bad",
+            "datecreation":"3 avril 2008",
+            "type":"Crime drama",
+            "story":" Breaking Bad follows the story of Walter White, a high school chemistry teacher who turns to cooking and selling methamphetamine after being diagnosed with cancer. Along with his former student Jesse Pinkman, Walter navigates the dangerous world of drug production and distribution, facing challenges from rival dealers and law enforcement. The series explores themes of morality, family, and the consequences of making bad decisions.",
+            "img":"https://images4.alphacoders.com/577/thumbbig-577286.webp"},
+        {
+            "titre":"Stranger Things",
+            "datecreation":"15 october 2010",
+            "type":"Science fiction/horror",
+            "story":"Stranger Things is set in the 1980s and follows a group of friends who investigate supernatural occurrences in their small town, including the mysterious disappearance of one of their own. Along the way, they encounter strange creatures, parallel universes, and a shadowy government agency. The series pays homage to classic science fiction and horror films from the era, while also exploring themes of friendship, loss, and growing up.",
+            "img":"https://images2.alphacoders.com/879/thumbbig-879599.webp"},
+        {
+            "titre":"The Crown",
+            "datecreation":" 12 mars 2016",
+            "type":"Historical drama",
+            "story":"The Crown is a fictionalized account of the reign of Queen Elizabeth II of the United Kingdom, beginning in the early 1950s. The series explores the personal and political challenges faced by the monarch, as well as the relationships between members of the royal family and with key political figures. The series is known for its attention to historical detail and the performances of its ensemble cast.",
+            "img":"https://images5.alphacoders.com/877/thumbbig-877285.webp"},
+        {
+            "titre":"The Office (US)",
+            "datecreation":"14 july 2005",
+            "type":"Sitcom",
+            "story":"The Office is a mockumentary-style sitcom that follows the daily lives of employees at the Scranton, Pennsylvania branch of the fictional Dunder Mifflin paper company. The series is known for its ensemble cast and its exploration of the dynamics of workplace relationships, including the romantic tensions between several characters. The show has become a cult classic and has influenced the style of many subsequent sitcoms.",
+            "img":"https://images7.alphacoders.com/420/thumbbig-420122.webp"},
+        {
+            "titre":"Friends",
+            "datecreation":"28 november 1994",
+            "gentypere":"Sitcom",
+            "story":" Friends follows the lives of six friends living in New York City, exploring their romantic relationships, careers, and personal struggles. The series is known for its iconic ensemble cast and its depiction of the 1990s zeitgeist. Friends remains a popular show, with many fans revisiting it on streaming platforms.",
+            "img":"https://images8.alphacoders.com/543/thumbbig-543961.webp"},
+        {
+            "titre": "The Blacklist",
+            "datecreation": "23 septembre 2013",
+            "type": "Drame, Thriller",
+            "story": "The Blacklist follows the story of Raymond 'Red' Reddington, a former government agent turned high-profile criminal, who voluntarily surrenders to the FBI after eluding capture for decades. He offers to help the FBI track down and apprehend other criminals and terrorists, but only if he can work with a rookie profiler, Elizabeth Keen. The series explores Reddington's motives and the intricate relationship between him and Keen, while unraveling a larger conspiracy.",
+            "img": "https://images3.alphacoders.com/585/thumbbig-585294.webp"
+          },
+          {
+            "titre": "The Good Doctor",
+            "datecreation": "25 septembre 2017",
+            "type": "Drame, Médical",
+            "story": "The Good Doctor follows the life of Dr. Shaun Murphy, a young surgeon with autism and savant syndrome, who joins a prestigious hospital surgical unit. Despite facing skepticism and prejudice from his colleagues, Shaun's exceptional medical skills and unique perspective help him solve complex medical cases. The series explores themes of acceptance, empathy, and the challenges faced by individuals with neurodevelopmental differences.",
+            "img": "https://images5.alphacoders.com/100/thumbbig-1009723.webp"
+          },
+          {
+            "titre": "Lucifer",
+            "datecreation": "25 janvier 2016",
+            "type": "Drame, Fantastique, Policier",
+            "story": "Lucifer follows the story of Lucifer Morningstar, the Devil himself, who becomes bored with his life in Hell and decides to retire to Los Angeles. He opens a nightclub and becomes involved in solving crimes alongside LAPD detective Chloe Decker. The series explores themes of redemption, identity, and the nature of good and evil, while delving into the complexities of Lucifer's relationships with celestial beings and humans.",
+            "img": "https://images.alphacoders.com/694/thumbbig-694599.webp"
+          },
+          {
+            "titre": "Peaky Blinders",
+            "datecreation": "12 septembre 2013",
+            "type": "Drame, Policier",
+            "story": "Peaky Blinders is set in post-World War I Birmingham, England, and follows the Shelby crime family, led by the ambitious and cunning Tommy Shelby. The series depicts the family's rise to power in the criminal underworld, their conflicts with rival gangs, and their complex relationships with law enforcement and politicians. Peaky Blinders explores themes of power, loyalty, and the impact of historical events on society.",
+            "img": "https://images6.alphacoders.com/594/thumbbig-594281.webp"
+          },
+          {
+            "titre": "The Last Kingdom",
+            "datecreation": "10 octobre 2015",
+            "type": "Drame, Historique",
+            "story": "The Last Kingdom is set in the late 9th century AD and follows the story of Uhtred of Bebbanburg, a Saxon nobleman captured and raised by Vikings. As he navigates the conflict between the invading Danes and the kingdoms of England, Uhtred must reconcile his dual identities and determine where his loyalties lie. The series explores themes of identity, war, and the clash of cultures during the Viking Age.",
+            "img": "https://images4.alphacoders.com/830/thumbbig-830476.webp"
+          },
+          {
+            "titre": "The 100",
+            "datecreation": "19 mars 2014",
+            "type": "Drame, Science fiction",
+            "story": "The 100 is set in a post-apocalyptic future where a nuclear war has devastated Earth. The surviving human population lives aboard a space station called the Ark, but when resources become scarce, 100 juvenile prisoners are sent back to Earth to determine if it is habitable. The series follows their struggles to survive in a dangerous and unfamiliar environment while facing internal and external threats.",
+            "img": "https://images5.alphacoders.com/675/thumbbig-675868.webp"
+          },
+          {
+            "titre": "The Walking Dead",
+            "datecreation": "31 October 2010",
+            "type": "Drama, Horror, Thriller",
+            "story": "The Walking Dead takes place after the onset of a worldwide zombie apocalypse. It follows a group of survivors, led by former sheriff's deputy Rick Grimes, as they struggle to stay alive and find safety in a world overrun by the undead. The series explores the challenges of survival, the conflicts between the living, and the moral dilemmas faced by the characters in this post-apocalyptic world.",
+            "img": "https://images5.alphacoders.com/444/thumbbig-444300.webp"
+          },
+          {
+            "titre": "Manifest",
+            "datecreation": "24 septembre 2018",
+            "type": "Drame, Mystère, Science fiction",
+            "story": "Manifest follows the passengers of Montego Air Flight 828, who experience a turbulent flight but land safely, only to discover that five and a half years have passed in the outside world. As they readjust to their lives, the passengers realize they have mysterious abilities and are connected by a shared destiny. The series delves into the supernatural phenomena surrounding Flight 828 and the consequences of the passengers' return.",
+            "img": "https://images8.alphacoders.com/126/thumbbig-1262064.webp"
+          },
+          {
+            "titre": "Vikings",
+            "datecreation": "3 mars 2013",
+            "type": "Drame, Historique",
+            "story": "Vikings is inspired by the sagas of Viking Ragnar Lothbrok and his legendary exploits. The series follows Ragnar's rise from a farmer to a renowned warrior and king, as he leads raids on England and explores uncharted territories. Vikings explores themes of honor, conquest, and the clash of pagan traditions with emerging Christian influences during the Viking Age.",
+            "img": "https://images7.alphacoders.com/506/thumbbig-506087.webp"
+          },
+          
+            {
+            "titre": "Narcos",
+            "datecreation": "28 August 2015",
+            "type": "Crime, Drama, Thriller",
+            "story": "Narcos tells the true story of the rise and fall of the infamous drug lord Pablo Escobar and the Medellín Cartel in Colombia. The series explores the intricacies of the drug trade, the efforts of law enforcement to bring down the cartel, and the complex web of corruption and violence that surrounds it. With a mix of English and Spanish languages, Narcos offers a gripping portrayal of the drug war and its impact on both sides of the law.",            
+            "img": "https://images2.alphacoders.com/633/thumbbig-633639.webp"
+          }
+    ]
+}

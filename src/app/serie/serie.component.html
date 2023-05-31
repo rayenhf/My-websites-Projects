@@ -1,0 +1,24 @@
+<div class="row">
+    <div class="col-md-3" *ngFor="let i of movielist">
+      <div class="card custom-card">
+        <div class="card-body d-flex flex-column">
+            <img src="{{i.img}}" class="card-img-top" alt="...">
+            <div class="card-body">
+          <div class="mt-auto">
+            <h5 class="card-title">{{i.titre}}</h5>
+            <p class="card-text"><i>Creation Date :</i> {{i.datecreation}}</p>
+            <p class="card-text"><i>Type : </i>{{i.type}}</p>
+          </div>
+        </div>
+        <div class="card-footer">
+            <div class="d-grid gap-2 col-6 mx-auto">
+                <button type="button" class="btn btn-primary btn-sm" (click)="toggleStory(i)">{{ i.showStory ? 'Hide Story' : 'Show Story' }}</button>
+            </div>
+            <div *ngIf="i.showStory">{{ i.story }}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+  

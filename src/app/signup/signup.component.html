@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SignUpPage</title>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="signup.component.css">
+</head>
+<body>
+
+	<div class="alert alert-success d-flex align-items-center" role="alert" *ngIf="a">
+		<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+			<symbol id="check-circle-fill" fill="currentColor" viewBox="0 0 16 16">
+			  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+			</symbol></svg>
+		<svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Success:"><use xlink:href="#check-circle-fill"/></svg>
+		<div>
+		 {{msg}}
+		</div></div>
+	<div class="container">
+		<div class="d-flex justify-content-center h-100">
+		  <div class="card">
+			<div class="card-header">
+				<h3>Sign in to <i style="color: black;font-weight: bold;">AM-</i><i style="color: orangered;font-weight: bold;">H</i></h3>
+			  <div class="d-flex justify-content-end social_icon">
+				<span><i class="fab fa-facebook-square"></i></span>
+				<span><i class="fab fa-google-plus-square"></i></span>
+				<span><i class="fab fa-twitter-square"></i></span>
+			  </div>
+			</div>
+			<div class="card-body">
+			  <form #f="ngForm" (ngSubmit)="signup()">
+				<div class="input-group form-group">
+					<div class="input-group-prepend">
+					  <span class="input-group-text"><i class="fas fa-user"></i></span>
+					</div>
+					<input type="text" class="form-control" placeholder="Name" required ngModel name="name" pattern="[a-zA-Z]+"[(ngModel)]="data.name"  />
+				  </div>
+				  <span *ngIf="f.controls['name']?.errors?.['required'] && f.controls['name'].touched" class="alert alert-danger hello">Name is required!<br></span>
+					<span *ngIf="f.controls['name']?.errors?.['pattern'] && f.controls['name'].touched" class="alert alert-danger hello">Name should only contain letters!</span>
+				  
+				  <div class="input-group form-group">
+					<div class="input-group-prepend">
+					  <span class="input-group-text"><i class="fas fa-user"></i></span>
+					</div>
+					<input type="text" class="form-control" placeholder="Lastname" required ngModel name="lastname" pattern="[a-zA-Z]+" [(ngModel)]="data.lastname" />
+				  </div>
+				  <span *ngIf="f.controls['lastname']?.errors?.['required'] && f.controls['lastname'].touched" class="alert alert-danger hello">Lastname is required!</span>
+					<span *ngIf="f.controls['lastname']?.errors?.['pattern'] && f.controls['lastname'].touched" class="alert alert-danger hello">Lastname should only contain letters!</span>
+				  <div class="input-group form-group">
+					<div class="input-group-prepend">
+					  <span class="input-group-text"><i class="fas fa-envelope"></i></span>
+					</div>
+					<input type="email" class="form-control" placeholder="Email" required ngModel name="email" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"[(ngModel)]="data.email"  />
+				  </div>
+				  	<ng-container *ngIf="f.controls['email']?.invalid && (f.controls['email'].touched || f.submitted)" class="alert alert-danger hello">
+					<div *ngIf="f.controls['email']?.errors?.['required']" class="alert alert-danger hello">Email is required!</div>
+					<div *ngIf="f.controls['email'].touched"class="alert alert-danger hello">Invalid email format!</div>
+				</ng-container>
+
+				  
+				  <div class="input-group form-group">
+					<div class="input-group-prepend">
+					  <span class="input-group-text"><i class="fas fa-key"></i></span>
+					</div>
+					<input type="password" class="form-control" placeholder="Password" required ngModel name="password"[(ngModel)]="data.password" />
+				  </div>
+				  <span *ngIf="f.controls['password']?.errors?.['required'] && f.controls['password'].touched" class="alert alert-danger hello">Password is required!</span>
+				<div class="row align-items-center remember">
+				  <input type="checkbox" id="check" required  ngModel name="checkbox">
+				  I have read and agree to the terms
+				  </div>
+				  <span *ngIf="f.controls['checkbox']?.errors?.['required'] && f.controls['checkbox'].touched"class="alert alert-danger hello">check the box!!</span>
+				  <div>
+					  <div class="form-group">
+                        <button  class="btn float-right login_btn" type="submit" [disabled]="f.invalid"(click)="saveUserData()" >SignUp</button>
+					</div>
+				</div>
+			</form>	
+		</div>
+		</div>
+	</div>
+	</div>
+
+</body>
+</html>
+
+ 
+
+  

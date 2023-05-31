@@ -1,0 +1,58 @@
+ 
+.mask-custom {
+    backdrop-filter: blur(2px);
+    background-color: rgba(181, 196, 189, 0.295);
+    width: auto;
+    height: 60px;
+  }
+  .general{
+  background-color: aliceblue;
+  }
+  .navbar-brand {
+    font-size: 2rem;
+    letter-spacing: 3px;
+    margin-right:150px;
+    font-weight: bold;
+    cursor: pointer;
+      
+  }
+  .socialmedia{
+    font-size: small;
+  }
+  a{
+  color:darkgray;
+  font-size: 20px;
+  }
+  #hello{
+    color: dodgerblue;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .setmargin{
+    margin-top: 100px;
+  }
+  
+  .dropdown-menu {
+    background:dodgerblue
+  }
+  a.dropdown-item:hover {
+    color:dodgerblue !important
+  }
+  .nav-item a{
+    color:#fa1231;
+  }
+  .nav-item a:hover {
+    color:dodgerblue
+  }
+  .nav-item{
+    min-width:17vw;
+    }
+    a:hover {  
+      text-decoration: none;
+    }
+    
+  
+  
+  
+  
